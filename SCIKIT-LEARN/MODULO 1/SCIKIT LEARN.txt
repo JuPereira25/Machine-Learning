@@ -1,0 +1,7 @@
+ OBS: Em modelos regressivos quando 
+      é necessário estimar não imputamos
+      váriaveis númericas
+
+One hotcode - converter variavel categoria em númerica
+
+get_dummies ( parametro )

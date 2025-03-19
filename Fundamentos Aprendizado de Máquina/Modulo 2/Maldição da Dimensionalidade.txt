@@ -1,0 +1,18 @@
+Livro: Programação dinâmica
+
+ A dimensão é um conjunto de dados que corresponde 
+ao numero de caracteristicas existentes no conjunto bancos.
+ - captar paramentros principais 
+
+Como resolver ?
+
+  Seleção de Features 
+    - com base nas caracteristicas 
+    - Filtrar Features
+
+  Redução de Dimensionalidade
+    
+    - Combinar features em uma feature única 
+
+
+PCA  - Análise de Componentes Principais

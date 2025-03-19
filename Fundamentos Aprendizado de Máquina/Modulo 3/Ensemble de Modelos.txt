@@ -1,0 +1,15 @@
+Ensemble de Modelos
+ - Técnica de machine Learning
+   as previsões de vários modelos
+   para melhorar o desempenho geral
+
+
+  - reduzir viés e a variança 
+  - previsões mais precisas
+
+
+Tipos: 
+  Bagging
+  Boosting
+  Stacking
+  Voting

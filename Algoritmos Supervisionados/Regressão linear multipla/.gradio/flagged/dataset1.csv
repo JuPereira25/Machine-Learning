@@ -1,0 +1,3 @@
+grupo_sanguineo,fumante,nivel_atividade_fisica,idade,peso,altura,output,timestamp
+O,true,Baixo,26,65.2,154,<built-in method reshape of numpy.ndarray object at 0x000001925F83B990>,2025-01-24 20:19:18.234344
+O,false,Alto,40,70,197,[165.32375099],2025-01-24 20:24:00.184190

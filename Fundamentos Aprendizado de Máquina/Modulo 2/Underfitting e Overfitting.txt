@@ -1,0 +1,21 @@
+Underfitting
+ - Se ajustou pouco
+
+
+Overfitting
+
+    
+
+   Como lidar 
+
+ Regularização - Penalizar
+
+ Ensemble de Modelos - Acoplar diversos modelos
+
+ Seleção de Features - Boas features
+ 
+ Redução de dimensionalidade 
+
+ Validação Cruzada
+
+ DropOut

@@ -1,0 +1,23 @@
+Divisão do conjunto de dados
+( SuPERVISIONADO )
+
+Métricas de Negócio
+
+Métricas de Desempenho
+
+Questões não funcionais
+
+
+Tecnicas
+
+Hold-out
+
+K-Fold
+
+Stratified K-fold
+
+
+Interpretado 
+Fairness
+Eficiência
+Segurança

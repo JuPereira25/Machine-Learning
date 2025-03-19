@@ -1,0 +1,12 @@
+Engenharia de Features
+
+ Seleção - pontuação de importancia
+
+ Transformação - variáveis categóricas, features aunsetes 
+
+
+ Criação - novas features a partir 
+           de dados existentes
+
+
+ Extração - Reduzir Features

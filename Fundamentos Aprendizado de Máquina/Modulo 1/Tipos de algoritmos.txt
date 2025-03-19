@@ -1,0 +1,38 @@
+       Supervisionados
+
+Regressão - Predizer Valores
+
+Classificação - Predizer Categorias ( Binárias )
+
+Nã-Supervisionado
+
+       Agrupamento - cluters 
+
+Redução de dimensionalidade - Reduzir a quantidade features, para funcionar melhor ( compactar )
+
+Associação - Sistemas de recomendação.
+
+       Por Reforço
+
+valor - recompensa
+
+Politica - Estrategia
+
+Ator - Crítico
+
+      Aprendizado Produndo ( Machine Learning )
+
+Rede Convolucionais - Identificação 
+
+Redes Recorrentes - Texto, LLMS
+
+GANs - generativas, dados sinteticos
+
+Transformers - 
+
+     Computação Natural
+
+Genéticos
+Sistemas Imunológicos
+Otimização por colônias ou exame
+computação quântica
